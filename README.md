@@ -40,4 +40,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template to include any additional information specific to your project or requirements!
