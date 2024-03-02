@@ -40,3 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+Also buy me coffee https://www.buymeacoffee.com/cavinrakomp
